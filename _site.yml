@@ -1,0 +1,9 @@
+name: "abby's professional skill website"  
+author: "Ziyi Cai"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "My First Webpage"
