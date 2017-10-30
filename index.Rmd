@@ -13,11 +13,17 @@ I work with [Supervisor's Name](http://supervisor/website)
 
 I'm a master student studying Research Methods in Psychological Science.My work in the [face lab](http://facelab.org/) and my research interests fucos on the relationship between facial atractiveness and human's health.
 
-*Backgroud
-
+## Education Backgroud
+    2011-2015 Applied Psychology, Southern Medical University, China
+    2017-now Research Methods in Psychohogical Science, University of Glasgow, UK
+    
 
 * supervisors
     * Ben
     * Lisa
     
 ![Ziyi Cai](images/0815_1.jpg)
+<img src="images/0815_1.jpg" 
+     style = "width:50%",float:right;
+     padding-left: 10px;" >
+     I look professional
