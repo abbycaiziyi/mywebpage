@@ -22,8 +22,8 @@ I'm a master student studying Research Methods in Psychological Science.My work 
     * Ben
     * Lisa
     
-![Ziyi Cai](images/0815_1.jpg)
 <img src="images/0815_1.jpg" 
-     style = "width:50%",float:right;
-     padding-left: 10px;" >
+     style = "width: 50%";
+     float: right;
+     padding-left: 10px;">
      I look professional
