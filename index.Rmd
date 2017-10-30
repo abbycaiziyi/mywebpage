@@ -1,11 +1,8 @@
 ---
 title: "abby's website"
-author: "Ziyi Cai"
-date: "23/10/2017"
-output: html_document
 ---
 <img src="images/0815_1.jpg" 
-     style = "width: 50%";
+     style="width: 50%;
      float: right;
      padding-left: 10px;">
      
