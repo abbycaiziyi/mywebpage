@@ -1,0 +1,53 @@
+---
+title: "Publications"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Publications
+
+1. A
+1. B
+1. C
+1. D
+1. E
+1. F
+1. G
+1. H
+
+## Talks
+
+1. A
+1. B
+1. C
+1. D
+1. E
+1. F
+1. G
+1. H
+
+## Posters
+
+1. A
+1. B
+1. C
+1. D
+1. E
+1. F
+1. G
+1. H
+
+## Open Data
+
+1. A
+1. B
+1. C
+1. D
+1. E
+1. F
+1. G
+1. H
+
+

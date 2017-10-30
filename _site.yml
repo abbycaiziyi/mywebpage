@@ -5,6 +5,7 @@ output:
   html_document:  
     self_contained: no  
     theme: flatly  
+    css: style.css
 navbar:  
   title: "My First Webpage"
   right:
